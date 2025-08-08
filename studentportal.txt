@@ -1,0 +1,6 @@
+name:siri
+course:bsc-A
+rollno:64
+suc code:2361530373
+college name:AWDC-GPT
+Description:learning classes in github
